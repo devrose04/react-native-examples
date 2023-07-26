@@ -1,4 +1,5 @@
-This is my first Project.
+This is my react-project.
+I think this project is great.
 
 # react-native-examples
 UI examples from [pttrns](pttrns.com), [mobile-patterns](www.mobile-patterns.com) converted to React Native 
